@@ -1,0 +1,41 @@
+#skills {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.skillTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.skillDesc {
+    font-weight: 400;
+    font-size: 1.05rem;
+    max-width: 50rem;
+    padding: 0 1rem;
+}
+
+.skillBars {
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+}
+
+.icon-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Adjust the background color and opacity */
+    padding: 8px; 
+    border-radius: 20%;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 0.5%;
+  }
+
