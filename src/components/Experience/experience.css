@@ -1,0 +1,46 @@
+#experience {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+}
+
+.experienceTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1rem;
+    color: white !important;
+}
+
+h3 {
+    padding-top: 0.25em;
+}
+
+.vertical-timeline-element-content {
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.15) !important;
+    padding: 2em 3em !important;
+}
+
+.date {
+    color: white;
+}
+
+#description {
+    margin: 1.5em 0 2em 0;
+}
+
+@media only screen and (max-width:1700px) {
+    .vertical-timeline-element-date {
+        display: block !important;
+        float: none !important;
+        color: rgb(44, 44, 44);
+        margin-top: 1.5em;
+    }
+}

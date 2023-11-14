@@ -9,10 +9,10 @@ function Navbar() {
     <nav className="navbar">
         <img src={logo} alt="logo" className="logo" />
         <div className="desktopMenu">
-            <Link className="desktopMenuListItem">Home</Link>
-            <Link className="desktopMenuListItem">Skills</Link>
-            <Link className="desktopMenuListItem">Experience</Link>
-            <Link className="desktopMenuListItem">Projects</Link>
+            <Link activeClass="active" to="intro" spy={true} smooth={true} offset={-100} className="desktopMenuListItem">Home</Link>
+            <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-100} className="desktopMenuListItem">Skills</Link>
+            <Link activeClass="active" to="experience" spy={true} smooth={true} offset={-100} className="desktopMenuListItem">Experience</Link>
+            <Link activeClass="active" to="portfolio" spy={true} smooth={true} offset={-100} className="desktopMenuListItem">Projects</Link>
         </div>
         <button className="desktopMenuBtn">
             <img src={contactImg} alt="" className="desktopMenuImage" />Contact Me</button>
