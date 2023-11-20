@@ -6,8 +6,8 @@ import timelineElements from "./experiencefiles"
 import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component"
 import "react-vertical-timeline-component/style.min.css";
 
-let workIconStyles = { background: "#06D6A0" };
-let schoolIconStyles = { background: "#f9c74f" };
+let workIconStyles = { background: "#778ca3" };
+let schoolIconStyles = { background: "#4b6584" };
 
 function Experience () {
   return (
