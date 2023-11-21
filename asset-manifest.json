@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/exy-portfolio-website/static/css/main.3daff3f3.css",
+    "main.js": "/exy-portfolio-website/static/js/main.6128c3f6.js",
+    "static/media/image.png": "/exy-portfolio-website/static/media/image.51ab5b3182319b05f0f1.png",
+    "static/media/menu.png": "/exy-portfolio-website/static/media/menu.fe22ac2c781b450d8b74.png",
+    "static/media/tmssnip2.png": "/exy-portfolio-website/static/media/tmssnip2.cd019d8b58538568b3fe.png",
+    "static/media/school.svg": "/exy-portfolio-website/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
+    "index.html": "/exy-portfolio-website/index.html",
+    "static/media/work.svg": "/exy-portfolio-website/static/media/work.3710b62484ed638074240e99317c6c60.svg",
+    "main.3daff3f3.css.map": "/exy-portfolio-website/static/css/main.3daff3f3.css.map",
+    "main.6128c3f6.js.map": "/exy-portfolio-website/static/js/main.6128c3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3daff3f3.css",
+    "static/js/main.6128c3f6.js"
+  ]
+}
