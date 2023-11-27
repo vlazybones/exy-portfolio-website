@@ -1,12 +1,12 @@
 #experience {
     overflow: hidden;
     width: 100vw;
-    max-width: 65rem;
+    max-width: 75rem;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center;
     justify-content: center;
-    text-align: center;
+    text-align: center; */
     margin: 0 auto;
     color: black;
 }
@@ -17,6 +17,7 @@
     padding-top: 3rem;
     margin-bottom: 1rem;
     color: white !important;
+    text-align: center;
 }
 
 h3 {
@@ -33,7 +34,8 @@ h3 {
 }
 
 .vertical-timeline-element-date {
-    color:rgb(0, 0, 0) !important;
+    color:black !important;
+    font-weight: 500 !important;
 }
 
 @media only screen and (max-width:1700px) {
@@ -41,7 +43,7 @@ h3 {
         display: block !important;
         float: none !important;
         color: black;
-        margin-top: 1.5em;
+        /* margin-top: 0.5em; */
     }
 }
 

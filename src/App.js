@@ -7,8 +7,6 @@ import Project from "./components/Project/projects";
 import Contact from "./components/Contact/contact";
 import Footer from "./components/Footer/footer";
 import Experience from "./components/Experience/experience";
-import tms from "./components/ProjectPages/tms";
-
 function App() {
   return (
     <div className="App">

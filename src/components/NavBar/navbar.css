@@ -42,6 +42,10 @@
     font-weight: bold;
 }
 
+.desktopMenuBtn:hover {
+    cursor: pointer;
+}
+
 .desktopMenuImage {
     object-fit: cover;
     height: 1rem;
