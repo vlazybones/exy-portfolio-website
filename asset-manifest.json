@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/exy-portfolio-website/static/css/main.c1c363cf.css",
-    "main.js": "/exy-portfolio-website/static/js/main.68408cf1.js",
+    "main.js": "/exy-portfolio-website/static/js/main.f6e75989.js",
     "static/media/image.png": "/exy-portfolio-website/static/media/image.51ab5b3182319b05f0f1.png",
     "static/media/EYLINB_RESUME.pdf": "/exy-portfolio-website/static/media/EYLINB_RESUME.981ec59107cb8bfbef6d.pdf",
     "static/media/menu.png": "/exy-portfolio-website/static/media/menu.fe22ac2c781b450d8b74.png",
@@ -12,10 +12,10 @@
     "index.html": "/exy-portfolio-website/index.html",
     "static/media/work.svg": "/exy-portfolio-website/static/media/work.3710b62484ed638074240e99317c6c60.svg",
     "main.c1c363cf.css.map": "/exy-portfolio-website/static/css/main.c1c363cf.css.map",
-    "main.68408cf1.js.map": "/exy-portfolio-website/static/js/main.68408cf1.js.map"
+    "main.f6e75989.js.map": "/exy-portfolio-website/static/js/main.f6e75989.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c363cf.css",
-    "static/js/main.68408cf1.js"
+    "static/js/main.f6e75989.js"
   ]
 }
