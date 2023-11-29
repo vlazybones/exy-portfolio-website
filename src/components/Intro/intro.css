@@ -51,6 +51,7 @@
     border: none;
     border-radius: 2rem;
     font-weight: bold;
+    color: black;
 }
 
 .btnImg{
@@ -62,6 +63,11 @@
 .btn:hover {
     cursor: pointer;
 }
+
+.link-style {
+    color: black;
+    text-decoration: none;
+  }
 
 @media screen and (max-width:840px) {
     .bg {
